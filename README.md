@@ -13,7 +13,7 @@
 
 - <a href="https://github.com/qxZap/real-browser-mcp">Real Browser MCP</a> : An mcp service that brings <a href="https://github.com/ZFC-Digital/puppeteer-real-browser">Puppeteer Real Browser</a> into MCP so you can use your agents to crawl around!
 - <a href="https://github.com/qxZap/mongo-memory-mcp">Mongo Memory MCP</a> : An mcp service that lets your AI agent store memories and search them. Uses mongoDB.
-- <a href="https://github.com/qxZap/time-mcp">Time MCP</a> : An mcp service that lets your AI agent.
+- <a href="https://github.com/qxZap/time-mcp">Time MCP</a> : An mcp service that lets your AI agent be capable of tracking time. Very ideal for time tied behavior.
 
 
 <h3 align="left">Languages and Tools:</h3>
