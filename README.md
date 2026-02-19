@@ -15,6 +15,7 @@
 - <a href="https://github.com/qxZap/mongo-memory-mcp">Mongo Memory MCP</a> : An mcp service that lets your AI agent store memories and search them. Uses mongoDB.
 - <a href="https://github.com/qxZap/time-mcp">Time MCP</a> : An mcp service that lets your AI agent be capable of tracking time. Very ideal for time tied behavior.
 - <a href="https://github.com/qxZap/scraper-mcp"> Scraper MCP </a> : Ever wanted your AI agent to have the ability to just crawl around websites and do scouting for you? Here you go. It's WIP, many features to come that will get you hard.
+- <a href="https://github.com/qxZap/real-mail-mcp"> Real Mail MCP </a> : AI agents can now manage your mail inbox! I tried many mcp servers for mailing and after many hours of failing i have decided to make my own
 
 
 <h3 align="left">Languages and Tools:</h3>
