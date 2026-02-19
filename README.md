@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm (Milea Mihai) Zap</h1>
 <h3 align="center">Passionate about tech and i expand my knowledge in the domain daily.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=qxzap&label=Profile%20views&color=0e75b6&style=flat" alt="qxzap" /> </p>
+
 - ⚡ Fun fact **I code ~ 13h/day**
 
 <h3 align="left">Connect with me:</h3>
