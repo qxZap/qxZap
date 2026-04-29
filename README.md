@@ -13,6 +13,7 @@
 
 **Some of my most useful projects**
 
+- <a href="https://github.com/qxZap/telegram-bro">Telegram BRO </a> : A skill compatible to most agents to notify you on telegram if you are away from the computer. Fits best for 30b+ models
 - <a href="https://github.com/qxZap/real-browser-mcp">Real Browser MCP</a> : An mcp service that brings <a href="https://github.com/ZFC-Digital/puppeteer-real-browser">Puppeteer Real Browser</a> into MCP so you can use your agents to crawl around!
 - <a href="https://github.com/qxZap/mongo-memory-mcp">Mongo Memory MCP</a> : An mcp service that lets your AI agent store memories and search them. Uses mongoDB.
 - <a href="https://github.com/qxZap/time-mcp">Time MCP</a> : An mcp service that lets your AI agent be capable of tracking time. Very ideal for time tied behavior.
