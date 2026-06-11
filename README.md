@@ -1,28 +1,77 @@
-<h1 align="center">Hi 👋, I'm (Milea Mihai) Zap</h1>
-<h3 align="center">Passionate about tech and i expand my knowledge in the domain daily.</h3>
+<h1 align="center">Hi 👋, I'm Mihai (Zap)</h1>
+<h3 align="center">Backend &amp; AI-agent engineer — I build MCP servers, automation tooling, and backend services.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=qxzap&label=Profile%20views&color=0e75b6&style=flat" alt="qxzap" /> </p>
-
-- ⚡ Fun fact **I code ~ 13h/day**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/qxzap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="qxzap" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/qxzap"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:xxxsk3t4xxx@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://ko-fi.com/qxzap"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi"/></a>
+  <img src="https://komarev.com/ghpvc/?username=qxzap&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
 </p>
 
+---
 
-**Some of my most useful projects**
+## ⚡ About
 
-- <a href="https://github.com/qxZap/telegram-bro">Telegram BRO </a> : A skill compatible to most agents to notify you on telegram if you are away from the computer. Fits best for 30b+ models
-- <a href="https://github.com/qxZap/real-browser-mcp">Real Browser MCP</a> : An mcp service that brings <a href="https://github.com/ZFC-Digital/puppeteer-real-browser">Puppeteer Real Browser</a> into MCP so you can use your agents to crawl around!
-- <a href="https://github.com/qxZap/mongo-memory-mcp">Mongo Memory MCP</a> : An mcp service that lets your AI agent store memories and search them. Uses mongoDB.
-- <a href="https://github.com/qxZap/time-mcp">Time MCP</a> : An mcp service that lets your AI agent be capable of tracking time. Very ideal for time tied behavior.
-- <a href="https://github.com/qxZap/scraper-mcp"> Scraper MCP </a> : Ever wanted your AI agent to have the ability to just crawl around websites and do scouting for you? Here you go. It's WIP, many features to come that will get you hard.
-- <a href="https://github.com/qxZap/real-mail-mcp"> Real Mail MCP </a> : AI agents can now manage your mail inbox! I tried many mcp servers for mailing and after many hours of failing i have decided to make my own
+Engineer who lives in the terminal (~13h/day). I focus on the tooling layer that makes AI agents actually useful — Model Context Protocol servers, browser automation that survives bot detection, and the backend services behind them. Technical depth in service of shipping, not ceremony.
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## 🔧 Preferred stack
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/qxzap"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="qxzap" /></a></p><br><br>
+### AI & Agents
+- **Model Context Protocol** servers — building tools that give agents real capabilities
+- Browser automation & anti-bot scraping (Puppeteer real-browser, Selenium)
+- Local LLMs via Ollama, OCR & intelligent document processing
+
+### Backend
+- **Core:** Go, Python (FastAPI / Flask), Node.js + TypeScript
+- **Also:** C#, Java, C / C++
+- REST, WebSocket, API-key gateways & metered services
+
+### Frontend
+- TypeScript, React, Vue, EJS
+- HTML + Jinja2, CSS + Tailwind / Bootstrap
+
+### Databases
+- PostgreSQL, MySQL / MariaDB, MS SQL
+- MongoDB, Redis, SQLite, Solr
+
+### DevOps & Cloud
+- Docker, Kubernetes, Jenkins, Nginx
+- AWS, Azure, Linux, Bash
+- Grafana / observability
+
+---
+
+## 📌 Featured projects
+
+- **[Real Browser MCP](https://github.com/qxZap/real-browser-mcp)** — exposes a real browser (via [puppeteer-real-browser](https://github.com/ZFC-Digital/puppeteer-real-browser)) as MCP tools, so agents can crawl past Cloudflare/Turnstile and behave like a real user.
+- **[Mongo Memory MCP](https://github.com/qxZap/mongo-memory-mcp)** — gives agents persistent memory backed by MongoDB: save, retrieve, and search context across sessions.
+- **[Real Mail MCP](https://github.com/qxZap/real-mail-mcp)** — an inbox-management MCP server that actually works, built after too many existing mail servers fell short.
+- **[Scraper MCP](https://github.com/qxZap/scraper-mcp)** — lets agents crawl and scout websites autonomously. WIP, with more on the way.
+- **[Time MCP](https://github.com/qxZap/time-mcp)** — time, date, timezone, and scheduling tools for time-aware agent behavior.
+- **[Telegram BRO](https://github.com/qxZap/telegram-bro)** — agent-compatible skill that pings you on Telegram when you're away from the machine. Tuned for 30B+ models.
+
+---
+
+## 💡 What I'm exploring
+
+- 🤖 **Agent tooling** — expanding the MCP ecosystem with reliable, production-grade servers.
+- 🦫 **Go backends** — fast, metered API services and gateways.
+- 🕸️ **Resilient automation** — scraping and browser automation that holds up against detection.
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=qxZap&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qxZap&layout=compact&count_private=true&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages"/>
+</p>
+
+---
+
+## 📬 Let's connect
+
+- **[LinkedIn](https://linkedin.com/in/qxzap)** · [xxxsk3t4xxx@gmail.com](mailto:xxxsk3t4xxx@gmail.com)
+- ☕ Support my work on **[Ko-fi](https://ko-fi.com/qxzap)**
