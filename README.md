@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/qxzap"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:xxxsk3t4xxx@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:mileamihai@outlook.it"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/></a>
   <a href="https://ko-fi.com/qxzap"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi"/></a>
   <img src="https://komarev.com/ghpvc/?username=qxzap&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
 </p>
@@ -73,5 +73,5 @@ Engineer who lives in the terminal (~13h/day). I focus on the tooling layer that
 
 ## 📬 Let's connect
 
-- **[LinkedIn](https://linkedin.com/in/qxzap)** · [xxxsk3t4xxx@gmail.com](mailto:xxxsk3t4xxx@gmail.com)
+- **[LinkedIn](https://linkedin.com/in/qxzap)** · [mileamihai@outlook.it](mailto:mileamihai@outlook.it)
 - ☕ Support my work on **[Ko-fi](https://ko-fi.com/qxzap)**
