@@ -16,6 +16,18 @@ Engineer who lives in the terminal (~13h/day). I focus on the tooling layer that
 
 ---
 
+## 📌 Featured projects
+
+- **[Real Browser MCP](https://github.com/qxZap/real-browser-mcp)** — exposes a real browser (via [puppeteer-real-browser](https://github.com/ZFC-Digital/puppeteer-real-browser)) as MCP tools, so agents can crawl past Cloudflare/Turnstile and behave like a real user.
+- **[Mongo Memory MCP](https://github.com/qxZap/mongo-memory-mcp)** — gives agents persistent memory backed by MongoDB: save, retrieve, and search context across sessions.
+- **[Real Mail MCP](https://github.com/qxZap/real-mail-mcp)** — an inbox-management MCP server that actually works, built after too many existing mail servers fell short.
+- **[Scraper MCP](https://github.com/qxZap/scraper-mcp)** — lets agents crawl and scout websites autonomously. WIP, with more on the way.
+- **[Time MCP](https://github.com/qxZap/time-mcp)** — time, date, timezone, and scheduling tools for time-aware agent behavior.
+- **[Telegram BRO](https://github.com/qxZap/telegram-bro)** — agent-compatible skill that pings you on Telegram when you're away from the machine. Tuned for 30B+ models.
+- **[TurboProvider](https://github.com/qxZap/turboprovider)** — zero-dependency control panel for llama.cpp that auto-tunes any GGUF for maximum context (MoE expert-offload + quantized KV cache) and serves an OpenAI-compatible endpoint. Runs a 30B MoE coder at 256K context on a 16 GB GPU.
+
+---
+
 ## 🔧 Preferred stack
 
 ### AI & Agents
@@ -40,18 +52,6 @@ Engineer who lives in the terminal (~13h/day). I focus on the tooling layer that
 - Docker, Kubernetes, Jenkins, Nginx
 - AWS, Azure, Linux, Bash
 - Grafana / observability
-
----
-
-## 📌 Featured projects
-
-- **[Real Browser MCP](https://github.com/qxZap/real-browser-mcp)** — exposes a real browser (via [puppeteer-real-browser](https://github.com/ZFC-Digital/puppeteer-real-browser)) as MCP tools, so agents can crawl past Cloudflare/Turnstile and behave like a real user.
-- **[Mongo Memory MCP](https://github.com/qxZap/mongo-memory-mcp)** — gives agents persistent memory backed by MongoDB: save, retrieve, and search context across sessions.
-- **[Real Mail MCP](https://github.com/qxZap/real-mail-mcp)** — an inbox-management MCP server that actually works, built after too many existing mail servers fell short.
-- **[Scraper MCP](https://github.com/qxZap/scraper-mcp)** — lets agents crawl and scout websites autonomously. WIP, with more on the way.
-- **[Time MCP](https://github.com/qxZap/time-mcp)** — time, date, timezone, and scheduling tools for time-aware agent behavior.
-- **[Telegram BRO](https://github.com/qxZap/telegram-bro)** — agent-compatible skill that pings you on Telegram when you're away from the machine. Tuned for 30B+ models.
-- **[TurboProvider](https://github.com/qxZap/turboprovider)** — zero-dependency control panel for llama.cpp that auto-tunes any GGUF for maximum context (MoE expert-offload + quantized KV cache) and serves an OpenAI-compatible endpoint. Runs a 30B MoE coder at 256K context on a 16 GB GPU.
 
 ---
 
